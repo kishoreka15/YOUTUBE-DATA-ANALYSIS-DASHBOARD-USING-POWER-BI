@@ -115,7 +115,8 @@ Engaging content increases watch time and visibility.
 Analyzing audience preference helps in creating better content.  
 Posting content based on audience interest increases engagement and views.  
 Audience-focused strategy leads to better performance.  
-## 🚀 Content Improvement Solutions
+
+## Content Improvement Solutions
 
 ### 1. Focus on Emotional & Relatable Content
 The highest viewed video (“Sister love”) shows that emotional and relatable content attracts more audience.  
