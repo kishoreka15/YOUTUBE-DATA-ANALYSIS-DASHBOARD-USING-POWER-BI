@@ -7,7 +7,7 @@ The project helps in understanding key metrics such as views, likes, comments, a
 It provides a clear and structured way to evaluate content performance across different channels.  
 This dashboard supports data-driven decision-making for content creators and analysts.  
 
-<img width="1462" height="840" alt="Screenshot 2026-03-25 at 12 48 07 PM" src="https://github.com/user-attachments/assets/cd49551a-3b80-4986-b0c7-4ba2d9fa33b5" />
+<img width="1535" height="926" alt="YOUTUBE DATA ANALYSIS DASHBOARD USING POWER BI" src="https://github.com/user-attachments/assets/c5a41d07-6286-4369-92eb-02b573a3d202" />
 
 ##  Objectives
 - To analyze YouTube performance data effectively  
@@ -89,4 +89,62 @@ These KPIs provide a quick overview of overall YouTube performance.
 - Dynamic and responsive dashboard  
 - User-friendly interface  
 - Easy navigation and data exploration  
+## 🚀 Content Improvement Solutions
 
+### 1. Focus on Emotional & Relatable Content
+The highest viewed video (“Sister love”) shows that emotional and relatable content attracts more audience.  
+Content based on relationships, feelings, and real-life situations performs better.  
+Creators should focus on storytelling that connects with viewers emotionally.  
+
+### 2. Avoid Unclear or Random Content Topics
+The lowest viewed content has no clear meaning or target audience.  
+Content should be simple, clear, and easy to understand.  
+Avoid confusing titles and unrelated topics that reduce engagement.  
+
+### 3. Use Proper Titles and Keywords
+Clean and meaningful titles improve reach and visibility.  
+Avoid using unnecessary numbers, symbols, or too many hashtags.  
+Proper keywords help videos reach the right audience.  
+
+### 4. Create Engaging Short-Form Content
+Short videos with strong openings attract more viewers.  
+The first few seconds should grab audience attention quickly.  
+Engaging content increases watch time and visibility.  
+
+### 5. Understand Audience Interest
+Analyzing audience preference helps in creating better content.  
+Posting content based on audience interest increases engagement and views.  
+Audience-focused strategy leads to better performance.  
+## 🚀 Content Improvement Solutions
+
+### 1. Focus on Emotional & Relatable Content
+The highest viewed video (“Sister love”) shows that emotional and relatable content attracts more audience.  
+Content based on relationships, feelings, and real-life situations performs better.  
+Creators should focus on storytelling that connects with viewers emotionally.  
+
+### 2. Avoid Unclear or Random Content Topics
+The lowest viewed content has no clear meaning or target audience.  
+Content should be simple, clear, and easy to understand.  
+Avoid confusing titles and unrelated topics that reduce engagement.  
+
+### 3. Use Proper Titles and Keywords
+Clean and meaningful titles improve reach and visibility.  
+Avoid using unnecessary numbers, symbols, or too many hashtags.  
+Proper keywords help videos reach the right audience.  
+
+### 4. Create Engaging Short-Form Content
+Short videos with strong openings attract more viewers.  
+The first few seconds should grab audience attention quickly.  
+Engaging content increases watch time and visibility.  
+
+### 5. Understand Audience Interest
+Analyzing audience preference helps in creating better content.  
+Posting content based on audience interest increases engagement and views.  
+Audience-focused strategy leads to better performance.  
+
+## 📌 Conclusion
+
+The analysis shows that content performance mainly depends on clarity, emotional connection, and audience relevance.  
+Videos like “Sister love” perform better because they are relatable and engaging, while unclear content results in low views.  
+By focusing on quality content, proper titles, and audience interests, creators can improve their performance.  
+Overall, data-driven content strategy is essential for achieving higher views and engagement on YouTube.  
